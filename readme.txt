@@ -1,6 +1,10 @@
 nbba theme
 
 Changes:
+Custom version:
+-fixed the size of the background: from the RetroPie version 4.2.3 there was in my case an image overlap between systems 
+-based on DarkPixelWolf version, added theme for SNK Neo Geo Pocket Color
+-added theme for Arcade and MS-DOS
 Version 1.2
 - Added theme for 3DO Interactive Multiplayer, Atari Jaguar, Famicom Disk System, Kodi, Magnavox Odyssey 2, Nintendo DS, Nintendo Virtual Boy, Sega Saturn, Sega SG-1000, SNK Neo Geo Pocket
 - Added partial theme for Commodore Amiga, Sinclair ZX Spectrum
